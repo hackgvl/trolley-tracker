@@ -1,26 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TrolleyStops>
-  <node lat='34.8558375' lon='-82.3968439'/>
-  <node lat='34.8602415' lon='-82.3950161'/>
-  <node lat='34.8428768' lon='-82.4092208'/>
-  <node lat='34.8433129' lon='-82.4082198'/>
-  <node lat='34.8442468' lon='-82.4050237'/>
-  <node lat='34.844639' lon='-82.4036105'/>
-  <node lat='34.8447334' lon='-82.402793'/>
-  <node lat='34.8453763' lon='-82.4019207'/>
-  <node lat='34.8466131' lon='-82.400934'/>
-  <node lat='34.8477894' lon='-82.4003879'/>
-  <node lat='34.8482581' lon='-82.4002633'/>
-  <node lat='34.8491211' lon='-82.3997923'/>
-  <node lat='34.8493456' lon='-82.4019878'/>
-  <node lat='34.8503157' lon='-82.3992308'/>
-  <node lat='34.850448' lon='-82.4010785'/>
-  <node lat='34.8512226' lon='-82.3988049'/>
-  <node lat='34.8520171' lon='-82.3984516'/>
-  <node lat='34.8528676' lon='-82.3998933'/>
-  <node lat='34.8531554' lon='-82.3979107'/>
-  <node lat='34.8554933' lon='-82.4010898'/>
-  <node lat='34.8595832' lon='-82.3952439'/>
-  <node lat='34.8619016' lon='-82.3942142'/>
+  <node lat='34.8619016' lon='-82.3942142' name='N Main @ Bohemian Cafe'/>
+  <node lat='34.8602415' lon='-82.3950161' name='N Main @ Thomas McAfee'/>
+  <node lat='34.8595832' lon='-82.3952439' name='619 N Main'/>
+  <node lat='34.8558375' lon='-82.3968439' name='Towers East Apts'/>
+  <node lat='34.8531554' lon='-82.3979107' name='N Main @ NOMA Square'/>
+  <node lat='34.8520171' lon='-82.3984516' name='N Main @ Mast General Store'/>
+  <node lat='34.8512226' lon='-82.3988049' name='N Main @ Certus Bank'/>
+  <node lat='34.8503157' lon='-82.3992308' name='S Main @ Wells Fargo Plaza'/>
+  <node lat='34.8491211' lon='-82.3997923' name='S Main @ Poinsett Plaza'/>
+  <node lat='34.8482581' lon='-82.4002633' name='S Main @ City Hall'/>
+  <node lat='34.8477894' lon='-82.4003879' name='S Main @ Village Green'/>
+  <node lat='34.8466131' lon='-82.400934' name='S Main @ Peace Center'/>
+  <node lat='34.8453763' lon='-82.4019207' name='S Main @ Falls Park'/>
+  <node lat='34.8447334' lon='-82.402793' name='S Main @ Pomegranate'/>
+  <node lat='34.844639' lon='-82.4036105' name='S Main @ Rick Erwin'/>
+  <node lat='34.8416466' lon='-82.407466' name='Fluor Field'/>
+  <node lat='34.8428768' lon='-82.4092208' name='Greenville Drive Ticket Office'/>
+  <node lat='34.8433129' lon='-82.4082198' name='S Main @ Compadres'/>
+  <node lat='34.8442468' lon='-82.4050237' name='S Main @ American Grocery'/>
+  <node lat='34.8493456' lon='-82.4019878' name='River St @ West Court St'/>
+  <node lat='34.850448' lon='-82.4010785' name='S Richardson St @ Transit Center'/>
+  <node lat='34.8528676' lon='-82.3998933' name='Richardson St @ W North St'/>
+  <node lat='34.8554933' lon='-82.4010898' name='Heritage Green'/>
 </TrolleyStops>
 
