@@ -1,0 +1,121 @@
+{
+  "TrolleyStops": {
+    "node": [
+      {
+        "lat": "34.8619016",
+        "lon": "-82.3942142",
+        "name": "N Main @ Bohemian Cafe"
+      },
+      {
+        "lat": "34.8602415",
+        "lon": "-82.3950161",
+        "name": "N Main @ Thomas McAfee"
+      },
+      {
+        "lat": "34.8595832",
+        "lon": "-82.3952439",
+        "name": "619 N Main"
+      },
+      {
+        "lat": "34.8558375",
+        "lon": "-82.3968439",
+        "name": "Towers East Apts"
+      },
+      {
+        "lat": "34.8531554",
+        "lon": "-82.3979107",
+        "name": "N Main @ NOMA Square"
+      },
+      {
+        "lat": "34.8520171",
+        "lon": "-82.3984516",
+        "name": "N Main @ Mast General Store"
+      },
+      {
+        "lat": "34.8512226",
+        "lon": "-82.3988049",
+        "name": "N Main @ Certus Bank"
+      },
+      {
+        "lat": "34.8503157",
+        "lon": "-82.3992308",
+        "name": "S Main @ Wells Fargo Plaza"
+      },
+      {
+        "lat": "34.8491211",
+        "lon": "-82.3997923",
+        "name": "S Main @ Poinsett Plaza"
+      },
+      {
+        "lat": "34.8482581",
+        "lon": "-82.4002633",
+        "name": "S Main @ City Hall"
+      },
+      {
+        "lat": "34.8477894",
+        "lon": "-82.4003879",
+        "name": "S Main @ Village Green"
+      },
+      {
+        "lat": "34.8466131",
+        "lon": "-82.400934",
+        "name": "S Main @ Peace Center"
+      },
+      {
+        "lat": "34.8453763",
+        "lon": "-82.4019207",
+        "name": "S Main @ Falls Park"
+      },
+      {
+        "lat": "34.8447334",
+        "lon": "-82.402793",
+        "name": "S Main @ Pomegranate"
+      },
+      {
+        "lat": "34.844639",
+        "lon": "-82.4036105",
+        "name": "S Main @ Rick Erwin"
+      },
+      {
+        "lat": "34.8416466",
+        "lon": "-82.407466",
+        "name": "Fluor Field"
+      },
+      {
+        "lat": "34.8428768",
+        "lon": "-82.4092208",
+        "name": "Greenville Drive Ticket Office"
+      },
+      {
+        "lat": "34.8433129",
+        "lon": "-82.4082198",
+        "name": "S Main @ Compadres"
+      },
+      {
+        "lat": "34.8442468",
+        "lon": "-82.4050237",
+        "name": "S Main @ American Grocery"
+      },
+      {
+        "lat": "34.8493456",
+        "lon": "-82.4019878",
+        "name": "River St @ West Court St"
+      },
+      {
+        "lat": "34.850448",
+        "lon": "-82.4010785",
+        "name": "S Richardson St @ Transit Center"
+      },
+      {
+        "lat": "34.8528676",
+        "lon": "-82.3998933",
+        "name": "Richardson St @ W North St"
+      },
+      {
+        "lat": "34.8554933",
+        "lon": "-82.4010898",
+        "name": "Heritage Green"
+      }
+    ]
+  }
+}
